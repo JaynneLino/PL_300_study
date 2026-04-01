@@ -1,4 +1,4 @@
-# Data Profiling Tools (Power Query)
+# Data Profiling Tools (Power Query).
 > Focus: Identifying data quality issues before modeling.
 
 In Power BI (Power Query), there are three main tools under the **View** tab to analyze data quality.
