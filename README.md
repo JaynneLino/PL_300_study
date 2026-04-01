@@ -38,7 +38,7 @@ The repository is organized according to the official exam domains:
 ---
 
 ## 📝 How to Track My Progress?
-Study tasks are tracked via Jira tickets (e.g., `P3-12`). Every commit in this repository references a specific milestone in the certification roadmap.
+Study tasks are tracked via Jira tickets (e.g., `E1-12`). Every commit in this repository references a specific milestone in the certification roadmap.
 
 ---
 **Maintained by:** [Jaynne Lino] 🚀
